@@ -1,16 +1,30 @@
-on: push
-name: Build and deploy GH Pages
+on:
+  push:
+    branches:
+      - main 
+  pull_request:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
+    if: github.ref != 'refs/heads/main'
     steps:
-      - name: checkout
-        uses: actions/checkout@v2
-      - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.14.1
+      - name: 'Checkout'
+        uses: actions/checkout@main
+      - name: 'Build only'
+        uses: tjtelan/zola-deploy-action@main
         env:
-          # Target branch
-          PAGES_BRANCH: gh-pages
-          # Provide personal access token
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: .
+          TOKEN: ${{ secrets.TOKEN }}
+          BUILD_ONLY: true
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@main
+      - name: 'Build and deploy'
+        uses: tjtelan/zola-deploy-action@main
+        env:
+          PAGES_BRANCH: gh-pages 
+          BUILD_DIR: .
+          TOKEN: ${{ secrets.TOKEN }}
