@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>bugswriter's website</title>
+    {% endif %}
+    <meta name="description" content="Suraj Kushwah's Personal Website">
+    <meta name="author" content="bugswriter">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" type="image/png" href="/favicon.ico">
+    <script src="/js/script.js"></script>
+  </head>
+  <body>
+    <header>
+      <div id="img-gallery">
+      </div>
+      <h1>Suraj <span>Kushwah</span></h1>
+      <form id="site-search">
+	<input type="text" placeholder="Search Site">
+	<button>go</button>
+      </form>
+      <nav>
+	<span>[<a href="/">Home</a>]</span>
+	<span>[<a href="/about">About</a>]</span>
+	<span>[<a href="/blog">Blog</a>]</span>
+	<span>[<a href="https://github.com/bugswriter" target="_blank">Github</a>]</span>
+	<span>[<a href="/contact">Contact</a>]</span>
+      </nav>
+      <blockquote id="header-quote">
+	❝ What I wouldn't give to be normal.<br>
+	<span>To live in that bubble of the naive. ❞</span>
+      </blockquote>
+    </header>
+    <main>
+      {% block content %}{% endblock %}
+    </main>
+    <footer>
+      <div>
+	<a href="https://landchad.net">
+	  <img src="https://landchad.net/pix/landchad.gif" target="_blank" alt="LandChad.net">
+	</a>
+	<a href="https://www.freebsd.org">
+	  <img src="https://www.freebsd.org/gifs/power-button.gif" target="_blank" alt="LandChad.net">
+	</a>
+	<a href="https://wiby.me">
+	  <img src="https://wiby.me/about/wiby.gif" target="_blank" alt="LandChad.net">
+	</a>
+	<a href="https://sadgrl.online/">
+	  <img src="https://sadgrl.online/images/new/button-new.gif" target="_blank" alt="sadgrl online"></a>
+      </div>
+      <p id="footer-note">
+	&copy Copyright 2022
+	<a href="https://bugswriter.com">Suraj Kushwah</a>.
+	All rights reserved.
+      </p>
+    </footer>
+  </body>
+</html>
