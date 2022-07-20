@@ -18,7 +18,7 @@ Hi i am Aditya aka Nethical. I am a 15yo code hobbyist who knows Java, Kotlin, A
 - Yes, this website was inspired from Bugswriter's Website.
 
 <center>
-<img src="//pics/no-signaltv.jpg">
+<img src="/pics/no-signaltv.jpg">
 <h3>About Me</h3>
 </center>
 I am a kind of guy who doesn't cares about how or what others are doing. I like doing everything in my own way and speed.
@@ -31,7 +31,7 @@ I give all the remaining time that I get from School, Studying, Working, Doing h
 Whenever I am reacting about something , I am just faking it, deep down I dont give a fuck about it. In my mind , I think completely differnt from what I or my emotions say.
 
 <center>
-<img src="//pics/bunnygang.jpg">
+<img src="/pics/bunnygang.jpg">
 <h3>Friends</h3>
 </center>
 
