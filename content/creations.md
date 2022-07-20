@@ -6,11 +6,14 @@ template = "page.html"
 <h1>ShowCase</h1>
 </center>
 
-<br><br>
-<center><h3> Projects </h3></center>
 <br>
 
 I have many things to show but it will take years writing all of them so here are some of them which I can remember
+
+
+<br>
+<center><h3> Projects </h3></center>
+<br>
 
 <br>
 
