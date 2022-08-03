@@ -28,7 +28,7 @@ I usually used to play a lot of video games until I realised all the games were 
 Once I was just hanging out on a programming server on Discord when some of the people told me about linux and recommended me to use it. I knew very little about Linux that time because schools really only teach about windows and propetiary softwares while we still have various better FOSS alternatives. I then tried linux for the first time and I have now fallen in love with it and I have decided to never change my os. Seriously, I dont understand why people just dont use open source softwares instead of pirating propetery software.
 
 I give all the remaining time that I get from School, Studying, Working, Doing homework etc to my Computer and my projects. I am not really good at anything except Computers. People always tease me for being weak but I belive its just how I am made. I dont know why but I am afraid of doing certain things even when I know that I can do them. I am a guy that has multiple personalities, different with different people. I sometimes become a whole new person who is unrecognizable. I have tried doing every possible thing but i have now realised I am not good at anything. I get trolled by people for the things that I do wrong in the fields they are good in. My only true companion is my computer which is connected to this crazy technology, the INTERNET!.
-Whenever I am reacting about something , I am just faking it, deep down I dont give a fuck about it. In my mind , I think completely differnt from what I or my emotions say.
+Whenever I am reacting about something , I am just faking it, deep down I dont give a damn about it. In my mind , I think completely different from what I or my emotions say.
 
 <center>
 <img src="/pics/bunnygang.jpg">
