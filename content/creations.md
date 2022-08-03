@@ -53,3 +53,24 @@ I am not too good at photography but still here are some of the pics I have clic
 <img src="/photography/3.jpg">
 <img src="/photography/2.jpg">
 </div>
+
+
+<br><br>
+<center>
+<img src="/pics/photographer.jpg">
+<h3> Customization </h3>
+</center>
+<br>
+
+<s>I use Arch btw.</s> For now I am using Manjaro.
+
+<br>
+
+<div id="photosec">
+<img src="/tweak/1.png">
+<img src="/tweak/2.png">
+<img src="/tweak/4.png">
+<img src="/tweak/5.png">
+<img src="/tweak/3.png">
+<img src="/tweak/6.png">
+</div>

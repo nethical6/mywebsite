@@ -13,5 +13,4 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-headerImg = "/pics/huh.jpeg"
 # Put all your custom variables here
