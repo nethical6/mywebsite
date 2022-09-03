@@ -1,6 +1,6 @@
 +++
 title = "Poem ~ SAD"
-date = 2022-08-09
+date = 2022-09-01
 +++
 <center>
 <img src="/pics/girlintrash.jpg">

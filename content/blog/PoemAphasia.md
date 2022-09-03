@@ -1,6 +1,6 @@
 +++
-title = "ok"
-date = 2022-08-09
+title = "Poem ~ Aphasia"
+date = 2022-09-03
 +++
 <center>
 <img src="/pics/girlintrash.jpg">
