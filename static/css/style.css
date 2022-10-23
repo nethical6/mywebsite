@@ -1,8 +1,8 @@
 :root {
-    --bg: #131313;
+    --bg: #000;
     --fg: #ffffff;
     --textColour: #f5eee6;
-    --textColour2: #f4dbc7;
+    --textColour2: #f4dbc7;;
     --grey: #84817c;
 }
 
@@ -22,8 +22,8 @@ header{
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 1.625rem 0 1.5rem 0;
-    border-bottom: 0.1rem solid var(--grey);
     opacity: 1;
+    font-size: 1rem;
 }
 header h1{
     font-family: "Abril Fatface";
@@ -32,16 +32,18 @@ header h4{
     font-family: 'Open Sans';
 }
 
-header a{
+/* header a{
     color: var(--fg);
     text-decoration: none;
 }
 header a:hover{
     text-decoration: underline;
-}
+} */
 img {
     padding: 1rem;
     margin:0.1rem;
+    filter: grayscale(69%);
+    border-radius: 15%;
 
 }
 #photosec img {
@@ -52,7 +54,9 @@ img {
 a{
     color: var(--textColour2);
     text-decoration: none;
+    cursor: pointer;
 }
 a:hover{
-    text-decoration: underline;
+    background-color: #ff2e88;
+    color: #fff;
 }
