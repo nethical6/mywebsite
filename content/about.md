@@ -2,7 +2,6 @@
 template = "page.html"
 +++
 <center>
-<img src="/pics/ukeplaing.jpg">
 <h1>Wanna Know About Me?</h1>
 </center>
 

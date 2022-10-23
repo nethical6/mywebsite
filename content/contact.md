@@ -2,7 +2,6 @@
 template = "page.html"
 +++
 <center>
-<img src="/pics/brokencarglass.jpg">
 <h1>Wanna Contact me / social</h1>
 </center>
 

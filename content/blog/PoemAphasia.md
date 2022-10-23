@@ -3,7 +3,6 @@ title = "Poem ~ Aphasia"
 date = 2022-09-03
 +++
 <center>
-<img src="/pics/IMG_20220904_084511.jpg">
 <h1>Aphasia</h1>
 </center>
 

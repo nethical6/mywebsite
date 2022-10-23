@@ -32,21 +32,15 @@ header h4{
     font-family: 'Open Sans';
 }
 
-/* header a{
-    color: var(--fg);
-    text-decoration: none;
-}
-header a:hover{
-    text-decoration: underline;
-} */
+
 img {
     padding: 1rem;
     margin:0.1rem;
-    filter: grayscale(69%);
-    border-radius: 15%;
+    filter: grayscale(100%);
+    border-radius: 10%;
 
 }
-#photosec img {
+img {
     max-width: 30%;
     max-height: auto;
 }
