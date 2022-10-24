@@ -17,7 +17,7 @@ You would no longer be a burden,
 
 You would no longer be inflicted by your loved ones,
 
-you would no longer be lonely
+you would no longer be lonely.
 
 <br>
 
@@ -27,9 +27,9 @@ After you killed yourself,
 
 Your mother fell on her knees and cried,
 
-with all your photos and clothes lyinh beside,
+with all your photos and clothes lying beside,
 
-Sometimes randomly imagining if it was all a drean and you did'nt die,
+Sometimes randomly imagining if it was all a dream and you did'nt die,
 
 <br>
 
@@ -39,7 +39,7 @@ Your father had tears in his eye,
 
 and was totally  broken from deep inside,
 
-After reading your sucide note kept in your notebook beside.
+After reading your suicide note kept in your notebook beside.
 
 <br>
 
