@@ -17,7 +17,7 @@ Hi i am Aditya aka Nethical. I am a 15yo code hobbyist who knows Java, Kotlin, A
 - Yes, this website was inspired from Bugswriter's Website.
 
 <center>
-<img src="/pics/no-signaltv.jpg">
+<img src="/pics/1150.jpg">
 <h3>About Me</h3>
 </center>
 I seem happy and always smile but thats not really the real truth.
@@ -30,7 +30,7 @@ I give all the remaining time that I get from School, Studying, Working, Doing h
 Whenever I am reacting about something , I am just faking it, deep down I dont give a damn about it. In my mind , I think completely different from what I or my emotions say.
 
 <center>
-<img src="/pics/bunnygang.jpg">
+<img src="/pics/1048.jpg">
 <h3>Friends</h3>
 </center>
 
@@ -43,7 +43,7 @@ I dont really know why I am sharing it here and I dont even know whether these p
 - AMK
 
 <center>
-<img src="/pics/animegirl.jpg">
+<img src="/pics/1078.jpg">
 <h3>Animes I have Watched/Watching</h3>
 </center>
 

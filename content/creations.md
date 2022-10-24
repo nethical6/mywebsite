@@ -2,17 +2,18 @@
 template = "page.html"
 +++
 <center>
-<img src="/pics/girlintrash.jpg">
+
 <h1>ShowCase</h1>
 </center>
 
-<br>
 
 I have many things to show but it will take years writing all of them so here are some of them which I can remember
 
 
 <br>
-<center><h3> Projects </h3></center>
+<center><h3> Projects </h3>
+<img src="/pics/1150.jpg">
+</center>
 <br>
 
 <br>
@@ -41,7 +42,7 @@ I have many things to show but it will take years writing all of them so here ar
 
 <br><br>
 <center>
-<img src="/pics/photographer.jpg">
+<img src="/pics/1050.jpg">
 <h3> Photography </h3>
 </center>
 <br>
