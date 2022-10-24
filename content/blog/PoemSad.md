@@ -30,19 +30,19 @@ I always try to enjoy life
 
 But never can
 
-Maybe I'm  not really fine
+I love he lonely night,
 
-or Maybe I'm just broken
+thinking about ways to reduce my lifespan
 
 <br>
 
-No matter how long the road
+My brain always reminds me of things I fear,
 
-I'll be a better me when i get back home
+The Sun has come up and given me another day,
 
-Then i wont be anymore controlled
+So I'll have to play again here,
 
-And I would also not be alone
+And I'm okay is what I'll say
 
 <br>
 
