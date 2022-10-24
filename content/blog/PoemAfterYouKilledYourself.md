@@ -1,6 +1,6 @@
 +++
 title = "Poem ~ After You Killed Yourself"
-date = 2022-10-25
+date = 2022-10-11
 +++
 
 <center>
