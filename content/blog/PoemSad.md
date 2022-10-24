@@ -30,17 +30,17 @@ I always try to enjoy life
 
 But never can
 
-I love he lonely night,
+I love the lonely night
 
 thinking about ways to reduce my lifespan
 
 <br>
 
-My brain always reminds me of things I fear,
+My brain always reminds me of things I fear
 
-The Sun has come up and given me another day,
+The Sun has come up and given me another day
 
-So I'll have to play again here,
+So I'll have to play again here
 
 And I'm okay is what I'll say
 
