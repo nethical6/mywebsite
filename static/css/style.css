@@ -11,7 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Open+Sans:wght@300&display=swap');
 body {
     text-rendering: optimizeLegibility;
-     background-color: #000
+    background-color: #000
     font-family: 'Open Sans';
     color: var(--fg);
 }
