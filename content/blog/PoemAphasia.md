@@ -16,6 +16,16 @@ So everyone thinks I'm abnormal instead
 
 <br>
 
+People say i'm realyy awkward
+
+I have no friends but thats fine
+
+As I know they exist just forpassing time
+
+I love enjoying my peacetime
+
+<br>
+
 I stay completely silent
 
 Cause no one really understands what I'm trying to say
@@ -26,13 +36,13 @@ How should I convey
 
 <br>
 
-I am truly in pain
-
 But still hoping to get okay
 
 Very soon someday
 
-So I can then again talk like the good old way
+Until then I'll try to live someway
+
+Or just giveup and die away
 
 <br>
 
