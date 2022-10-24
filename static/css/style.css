@@ -41,8 +41,11 @@ img {
 }
 img {
     max-width: 30%;
-    /* filter: grayscale(100%); */
     max-height: auto;
+}
+
+#img-gallery img {
+    filter: grayscale(69%);
 }
 
 a{
