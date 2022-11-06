@@ -41,6 +41,9 @@ I dont really know why I am sharing it here and I dont even know whether these p
 - Sam
 - KP
 - AMK
+- GianXd
+- Ixyan23
+- Pranav
 
 <center>
 <img src="/pics/1078.jpg">
