@@ -12,3 +12,4 @@ I grew up playing these games and whenever i play them, I can feel the nostalgia
 - [Play Bomber Man](/games/bomberman.html)
 - [Play Road Fighter](/games/road-fighter.html)
 - [Play Contra](/games/contra.html)
+- [Play Popeye](/games/popeye.html)
