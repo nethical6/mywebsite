@@ -6,7 +6,7 @@ template = "page.html"
 <h1>Games</h1>
 </center>
 
-I grew up playing these games and whenever i play them, I can feel the nostalgia. I spent hours playing these games and I have lots of good memories with these games. You can Play them by clicking on them.
+These are the games that give me nostalgia and the old vibes everytime I play them. You can directly play them without installing.
 
 - [Play Super Mario Bros](/games/super-mario.html)
 - [Play Super Mario Bros 3](/games/mario3.html)
@@ -15,3 +15,4 @@ I grew up playing these games and whenever i play them, I can feel the nostalgia
 - [Play Contra](/games/contra.html)
 - [Play Popeye](/games/popeye.html)
 - [Play Turbo Racing](/games/turbo-racing.html)
+- [Play Circus Charlie](/games/circus-charlie.html)
