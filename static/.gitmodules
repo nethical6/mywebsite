@@ -1,0 +1,3 @@
+[submodule "GameEmulator"]
+	path = GameEmulator
+	url = https://github.com/RealNethical/GameEmulator
