@@ -14,3 +14,4 @@ I grew up playing these games and whenever i play them, I can feel the nostalgia
 - [Play Road Fighter](/games/road-fighter.html)
 - [Play Contra](/games/contra.html)
 - [Play Popeye](/games/popeye.html)
+- [Play Turbo Racing](/games/turbo-racing.html)
