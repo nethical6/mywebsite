@@ -13,3 +13,4 @@ template = "page.html"
 - [REDDIT](https://www.reddit.com/u/Nethical69?utm_medium=android_app&utm_source=share)
 
 
+Email - 1nethical@proton.me
