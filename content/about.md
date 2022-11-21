@@ -20,7 +20,7 @@ Hi i am Aditya aka Nethical. I am a 15yo code hobbyist who knows Java, Kotlin, A
 <img src="/pics/1150.jpg">
 <h3>About Me</h3>
 </center>
-I seem happy and always smile but thats not really the real truth.
+My pc broke btw.
 
 I usually used to play a lot of video games until I realised all the games were same, even when they may look different from outside. They all have some programming logic inside which could be easily cracked and everything has vulnerabilities or loopholes. I then spent hours cracking and modifying simple android applications and also learnt basic smali myself just from repeatedly editing smali files. I then started learning more and more about Android and started developing my own apps.
 
@@ -38,7 +38,8 @@ I dont really know why I am sharing it here and I dont even know whether these p
 - Cyrus
 - Ximiya
 - Cyren
-- Sam
+- Samuri
+- San
 - KP
 - AMK
 - GianXd
