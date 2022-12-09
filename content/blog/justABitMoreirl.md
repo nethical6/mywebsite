@@ -1,6 +1,6 @@
 +++
 title = "Just a bit more about me in irl"
-date = 2022-10-12
+date = 2022-12-09
 +++
 
 <center>
