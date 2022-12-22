@@ -35,7 +35,15 @@ header h4{
 }
 
 
+img {
+    max-width: 30%;
+    max-height: auto;
+}
+#musik {
+    max-width: 90%;
+    max-height: auto;
 
+}
 
 #img-gallery img {
     max-width: 30%;
