@@ -1,6 +1,6 @@
 +++
 title = "Poem ~ hypocrisy"
-date = 2022-10-13
+date = 2022-12-29
 +++
 
 <center>
