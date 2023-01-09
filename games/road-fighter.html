@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Play Games</title>
+
+        <link rel = icon href = favicon.ico sizes = "16x16 32x32 48x48 64x64">
+        <meta name = viewport content = "width = device-width, initial-scale = 1">
+        
+    <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body>
+        <div style="width:640px;height:480px;max-width:100%">
+            <div id="game"></div>
+        </div>
+        <script>
+const params = new Proxy(new URLSearchParams(window.location.search), {
+  get: (searchParams, prop) => searchParams.get(prop),
+});
+            EJS_player = "#game";
+            EJS_color = "#241f31";
+            EJS_startOnLoaded = true;
+            EJS_pathtodata = "GameEmulator/data/";
+                EJS_core = "nes";
+                EJS_gameUrl = "roms/road-fighter.nes";
+            
+
+        </script>
+        <script src="GameEmulator/data/loader.js"></script>
+    </body>
+</html>
